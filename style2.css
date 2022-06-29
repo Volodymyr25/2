@@ -1,0 +1,162 @@
+body{
+    font-size:x-large;
+    color: white;
+    border-radius: 10px;
+    background-color: aqua;
+}
+.top{
+    background-color: black;
+    border-radius: 20px;
+    text-align: center;
+    display: ruby;
+    border:7px double gold;
+    color: yellow;
+}
+.acropol{
+    background-color:black;
+    border-radius: 20px;
+    padding:20px;
+    border: 7px double gold;
+    color: yellow;
+    justify-content: center;
+}
+.acropol img{
+    border-radius: 20px;
+    border: 3px double gold;
+    justify-content: center;
+}
+.acropol img:hover{
+    margin: 20px;
+    box-shadow: 7px 5px 10px 1px gold;
+    
+}
+.parfeon{
+    background-color: black;
+    border-radius: 20px;
+    border: 7px double gold;
+    padding: 20px;
+    color:yellow;
+    justify-content: center;
+}
+.parfeon img{
+    border-radius: 20px;
+    border:3px double gold;
+    justify-content: center;
+}
+.parfeon img:hover{
+    margin: 20px;
+    box-shadow: 7px 5px 10px 1px gold;
+}
+.hram{
+    background-color: black;
+    border-radius: 20px;
+    border: 7px double gold;
+    padding: 20px;
+    color: yellow;
+    justify-content: center;
+}
+.hram img{
+    border-radius: 20px;
+    border:3px double gold;
+    justify-content: center;
+}
+.hram img:hover{
+    margin: 20px;
+    box-shadow: 7px 5px 10px 1px gold;
+}
+.theater{
+    background-color: black;
+    border-radius: 20px;
+    border: 7px double gold;
+    padding: 20px;
+    color: yellow;
+    justify-content: center;
+}
+.theater img{
+    border-radius: 20px;
+    border:3px double gold;
+        justify-content: center;
+}
+.theater img:hover{
+    margin: 20px;
+    box-shadow: 7px 5px 10px 1px gold;
+}
+.mus{
+    background-color: black;
+    border-radius: 20px;
+    border: 7px double gold;
+    padding: 20px;
+    color: yellow;
+    justify-content: center;
+}
+.mus img{
+    border-radius: 20px;
+    border:3px double gold;
+    justify-content: center;
+}
+.mus img:hover{
+    margin: 20px;
+    box-shadow: 7px 5px 10px 1px gold;
+}
+.krit{
+    background-color: black;
+    border-radius: 20px;
+    border: 7px double gold;
+    padding: 20px;
+    color: yellow;
+    justify-content: center;
+}
+.krit img{
+    border-radius: 20px;
+    border:3px double gold;
+    justify-content: center;
+}
+.krit img:hover{
+    margin: 20px;
+    box-shadow: 7px 5px 10px 1px gold;
+}
+.rodos{
+    background-color: black;
+    border-radius: 20px;
+    border: 7px double gold;
+    padding: 20px;
+    color: yellow;
+    justify-content: center;
+    
+}
+.rodos img{
+    border-radius: 20px;
+    border:3px double gold;
+    justify-content: center;
+}
+.rodos img:hover{
+    margin: 20px;
+    box-shadow: 7px 5px 10px 1px gold;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    background-color: black;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 7px 7px 0px 0px red;
+    margin: 30px;
+    border: 2px solid gold;
+    background-image: linear-gradient(to right, lightgreen, white, gold);
+ 
+}
+a:hover{
+    box-shadow:7px 7px 0px 0px green;
+}
+a:focus{
+    box-shadow: 0 5px 0 0 crimson;
+    color: black;
+}
+header{
+    border:3px double yellow;
+    border-radius: 20px;
+    color: yellow;
+    text-align: center;
+    background-color: black;
+}
