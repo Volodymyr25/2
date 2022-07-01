@@ -19,6 +19,7 @@ body{
     border: 7px double gold;
     color: yellow;
     justify-content: center;
+    text-align:center;
 }
 .acropol img{
     border-radius: 20px;
@@ -37,6 +38,7 @@ body{
     padding: 20px;
     color:yellow;
     justify-content: center;
+    text-align:center;
 }
 .parfeon img{
     border-radius: 20px;
@@ -54,6 +56,7 @@ body{
     padding: 20px;
     color: yellow;
     justify-content: center;
+    text-align:center;
 }
 .hram img{
     border-radius: 20px;
@@ -71,6 +74,7 @@ body{
     padding: 20px;
     color: yellow;
     justify-content: center;
+    text-align:center;
 }
 .theater img{
     border-radius: 20px;
@@ -88,6 +92,7 @@ body{
     padding: 20px;
     color: yellow;
     justify-content: center;
+    text-align:center;
 }
 .mus img{
     border-radius: 20px;
@@ -105,6 +110,7 @@ body{
     padding: 20px;
     color: yellow;
     justify-content: center;
+    text-align:center;
 }
 .krit img{
     border-radius: 20px;
@@ -122,6 +128,7 @@ body{
     padding: 20px;
     color: yellow;
     justify-content: center;
+    text-align:center;
     
 }
 .rodos img{
