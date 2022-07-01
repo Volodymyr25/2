@@ -29,7 +29,10 @@ body{
 .acropol img:hover{
     margin: 20px;
     box-shadow: 7px 5px 10px 1px gold;
-    
+}
+.acropol iframe{
+    border: 5px double yellow;
+    border-radius: 20px;
 }
 .parfeon{
     background-color: black;
@@ -49,6 +52,10 @@ body{
     margin: 20px;
     box-shadow: 7px 5px 10px 1px gold;
 }
+.parfeon iframe{
+    border: 5px double yellow;
+    border-radius: 20px;
+}
 .hram{
     background-color: black;
     border-radius: 20px;
@@ -66,6 +73,10 @@ body{
 .hram img:hover{
     margin: 20px;
     box-shadow: 7px 5px 10px 1px gold;
+}
+.hram iframe{
+    border: 5px double yellow;
+    border-radius: 20px;
 }
 .theater{
     background-color: black;
@@ -85,6 +96,10 @@ body{
     margin: 20px;
     box-shadow: 7px 5px 10px 1px gold;
 }
+.theater iframe{
+    border: 5px double yellow;
+    border-radius: 20px;
+}
 .mus{
     background-color: black;
     border-radius: 20px;
@@ -102,6 +117,10 @@ body{
 .mus img:hover{
     margin: 20px;
     box-shadow: 7px 5px 10px 1px gold;
+}
+.mus iframe{
+    border: 5px double yellow;
+    border-radius: 20px;
 }
 .krit{
     background-color: black;
@@ -121,6 +140,10 @@ body{
     margin: 20px;
     box-shadow: 7px 5px 10px 1px gold;
 }
+.krit iframe{
+    border: 5px double yellow;
+    border-radius: 20px;
+}
 .rodos{
     background-color: black;
     border-radius: 20px;
@@ -139,6 +162,10 @@ body{
 .rodos img:hover{
     margin: 20px;
     box-shadow: 7px 5px 10px 1px gold;
+}
+.rodos iframe{
+    border: 5px double yellow;
+    border-radius: 20px;
 }
 a{
     text-decoration: none;
